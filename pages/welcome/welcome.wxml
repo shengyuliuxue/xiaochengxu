@@ -2,6 +2,7 @@
 <view>
   <text>Hello, 盛钰，你好</text>
   <view>
-    <text>开启小程序之旅</text>
+    <text>小程序之旅！</text>
+    <text>更新了...</text>
   </view>
 </view>
